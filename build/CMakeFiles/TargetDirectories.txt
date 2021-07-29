@@ -1,0 +1,3 @@
+/home/wangwengguang/dirty_mabu/opencv_vibe/build/CMakeFiles/rebuild_cache.dir
+/home/wangwengguang/dirty_mabu/opencv_vibe/build/CMakeFiles/edit_cache.dir
+/home/wangwengguang/dirty_mabu/opencv_vibe/build/CMakeFiles/pcd_pic.dir
